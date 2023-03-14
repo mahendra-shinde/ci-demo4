@@ -2,8 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mahendra.testing</groupId>
   <artifactId>JUnitWIthSpring_1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>1_JUnitWithSpring</name>
+  <version>1.0</version>
+  <name>demo-1</name>
   <description>Basic JUnit with Spring Application demo</description>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
